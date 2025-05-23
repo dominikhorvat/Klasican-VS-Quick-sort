@@ -1,0 +1,18 @@
+1. U priloženoj mapi "nasumicno" nalaze se tri koda: 
+"generator_nasumicnih" koji generirat .txt datoteku s određenim brojem nasumicnih brojeva,
+"klasicansort" koji će sortirati elemente niza duljine n i mjeriti vrijeme potrebno da klasičan
+sort sortira taj niz
+"quicksort" koji će isto sortirati elemente niza duljine n i mjeriti vrijeme potrebno da quick
+sort sortira taj niz
+2. U priloženoj mapi "sortirano" nalaze se također tri koda:
+"generator-sortirano" kreira .txt datoteku u kojoj su sortirani brojevi od 0 do 999999,
+"klasican-sortirano" "sortira" tu datoteku, "quick-sortirano" isto "sortira" tu datoteku
+3. U priloženoj mapi "kod za prosjecnu slozenost quicka" nalaze se dva koda:
+"generator-primjera", opis u kodu i "brojac" koji će odrediti prosječno vrijeme sortiranja 
+za određene nizove duljine n.
+
+Svi kodovi su napisani u programskom jeziku C, dakle nastavak "naziv.c".
+
+!U SLUČAJU DA NEKI KOD NE RADI AKO SE POKRENE MOLIM DA MI JAVITE MAILOM, JER SU SVI KODOVI
+PROVJERENI PRIJE SAMOG ZIPANJA I STAVLJANJA U OVE MAPE!
+
